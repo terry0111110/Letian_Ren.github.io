@@ -1,28 +1,33 @@
 ---
 
-title: "About David Florian"
+title: "About Letian Ren"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+
+* Beijing University of Technology  2019 - 2023
+  * BS Civil Engineering (Strusture Engineering)
+*  University of Michigan, Ann Arbor 2023 - 2025
+  * MS Civil Engineering (Syetem Engineering)
+* Vanderbilt University 2025 - now
+  * PhD Civil Engineering
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+*Programming Language: Python, MATLAB,
+*Tools/Software: Abaqus, Midas, SAP2000, Revit, AutoCAD, SolidWorks, Ardurino, Gurobi, Delft-3D, HEC-RAS,SWAN, HEC-SSP
+*Technology: Machine Learning, Sensors, optimization
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+## Award
+
+*Bachelor Degree with Honors | 2023.7
+*Beijing University of Technology Urban Construction Department Academic Excellence Award | 2022.9 
+*Beijing University of Technology School-level Academic Excellence Award | 2020.10 & 2021.10
+
+
 
 ## Press 
 
