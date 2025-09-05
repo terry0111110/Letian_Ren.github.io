@@ -10,8 +10,7 @@ title: "About Letian Ren"
 
 * Beijing University of Technology  2019 - 2023
   * BS Civil Engineering (Strusture Engineering)
-*  University of Michigan, Ann Arbor 2023 - 2025
-  * MS Civil Engineering (Syetem Engineering)
+*  University of Michigan, Ann Arbor 2023 - 2025  Civil Engineering (Syetem Engineering)
 * Vanderbilt University 2025 - Now
   * Ph.D. Civil Engineering
 
