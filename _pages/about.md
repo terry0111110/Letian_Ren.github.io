@@ -12,23 +12,23 @@ title: "About Letian Ren"
   * BS Civil Engineering (Strusture Engineering)
 *  University of Michigan, Ann Arbor 2023 - 2025
   * MS Civil Engineering (Syetem Engineering)
-* Vanderbilt University 2025 - now
-  * PhD Civil Engineering
+* Vanderbilt University 2025 - Now
+  * Ph.D. Civil Engineering
 
 ## Technical Skills
 
-*Programming Language: 
+* Programming Language: 
 Python, MATLAB,
-*Tools/Software: 
+* Tools/Software: 
 Abaqus, Midas, SAP2000, Revit, AutoCAD, SolidWorks, Ardurino, Gurobi, Delft-3D, HEC-RAS,SWAN, HEC-SSP
-*Technology: 
+* Technology: 
 Machine Learning, Sensors, optimization
 
 ## Award
 
-*Bachelor Degree with Honors | 2023.7
-*Beijing University of Technology Urban Construction Department Academic Excellence Award | 2022.9 
-*Beijing University of Technology School-level Academic Excellence Award | 2020.10 & 2021.10
+* Bachelor Degree with Honors | 2023.7
+* Beijing University of Technology Urban Construction Department Academic Excellence Award | 2022.9 
+* Beijing University of Technology School-level Academic Excellence Award | 2020.10 & 2021.10
 
 
 
